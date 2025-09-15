@@ -1,0 +1,10 @@
+Your task is to answer the question provided. Please respond succinctly.
+
+**Input:**
+- **Question:**
+```
+{question}
+```
+
+**Response:**
+- **Answer:**

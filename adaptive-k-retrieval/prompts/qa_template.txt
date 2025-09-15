@@ -1,0 +1,21 @@
+Your task is to answer the question provided. To help you answer accurately, some relevant context documents have been retrieved. After reviewing them, you’ll be asked the same question again. Please respond succinctly.
+
+**Input:**
+- **Question:**
+```
+{question}
+```
+
+- **Context:**
+```
+{context}
+```
+
+- **Question:**
+```
+{question}
+```
+
+
+**Response:**
+- **Answer:**

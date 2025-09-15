@@ -1,0 +1,15 @@
+You'll be given a set of sentences to read through carefully. Once you've reviewed them, I'll ask you a question related to the information in those sentences. Your job is to think critically about the details, analyze the sentences in relation to the question, and then provide your answer. If the information clearly supports a partial answer, provide that. However, if the evidence is unclear or insufficient, it is okay to respond with "No answer."
+
+**Input:**
+- **Sentences:**
+```
+{context}
+```
+
+- **Question:**
+```
+{question}
+```
+
+**Response:**
+- **Answer:** [Provide an answer only if it is clearly supported by the information in the sentences. If the evidence is unclear or insufficient, respond with "No answer."]
